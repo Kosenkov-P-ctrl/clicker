@@ -30,4 +30,4 @@ To build and run the project, follow these steps:
 You can test the app with:
 
 - Postman
-- Swagger
+- Swagger (http://localhost:8080/swagger-ui)
